@@ -1,0 +1,135 @@
+{
+  "settings": {
+    "name": "Site-12-14_1944",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#f39c12",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      },
+      "additionalSetColors": []
+    },
+    "versionFirst": "4.5.2",
+    "uniqCompNum": 1,
+    "versionPublish": "4.5.2"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#eeeeee",
+            "showText": true,
+            "filter": true,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2015-4-11-76967-1844x1240.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2015-4-11-76967-1844x1240-800x537.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "caption": "",
+                "active": false,
+                "alt": "C:\\Users\\olisemp pc\\Documents\\app para eventos\\app de prototipo\\fotos para album"
+              },
+              {
+                "tags": "Alegria",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/2015-4-11-77039-1845x1241.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2015-4-11-77039-1845x1241-800x538.jpg",
+                "caption": "",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animação",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/2015-4-11-81054-1844x1240.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2015-4-11-81054-1844x1240-800x537.jpg",
+                "caption": "",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/2015-4-11-77091a-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2015-4-11-77091a-2000x1333-800x533.jpg",
+                "caption": "",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Criatividade",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/2015-4-11-78679-1844x1240.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2015-4-11-78679-1844x1240-800x537.jpg",
+                "caption": "",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "União",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/2015-4-11-81351-1845x1241.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2015-4-11-81351-1845x1241-800x538.jpg",
+                "caption": "",
+                "active": true,
+                "alt": ""
+              }
+            ]
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
+          "allItem": "ALL",
+          "_name": "gallery3",
+          "_anchor": "gallery3-0"
+        }
+      ]
+    }
+  }
+}
