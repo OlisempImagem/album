@@ -125,7 +125,7 @@
           "articleLayout": false,
           "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
           "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
-          "allItem": "ALL",
+          "allItem": "Ver todas",
           "_name": "gallery3",
           "_anchor": "gallery3-0"
         }
