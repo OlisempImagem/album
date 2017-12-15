@@ -51,25 +51,14 @@
             "filter": true,
             "images": [
               {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2015-4-11-76967-1844x1240.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2015-4-11-76967-1844x1240-800x537.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "caption": "",
-                "active": false,
-                "alt": "C:\\Users\\olisemp pc\\Documents\\app para eventos\\app de prototipo\\fotos para album"
-              },
-              {
-                "tags": "Alegria",
+                "tags": "Beleza",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "image": "@PROJECT_PATH@/assets/images/2015-4-11-77039-1845x1241.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2015-4-11-77039-1845x1241-800x538.jpg",
                 "caption": "",
-                "active": false,
+                "active": true,
                 "alt": ""
               },
               {
@@ -113,7 +102,7 @@
                 "image": "@PROJECT_PATH@/assets/images/2015-4-11-81351-1845x1241.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2015-4-11-81351-1845x1241-800x538.jpg",
                 "caption": "",
-                "active": true,
+                "active": false,
                 "alt": ""
               }
             ]
